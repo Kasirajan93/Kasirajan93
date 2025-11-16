@@ -1,23 +1,13 @@
-<!-- TYPING HEADER -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=1E90FF&center=true&vCenter=true&width=550&lines=Hi+I'm+Kasi+Rajan!;Data+Science+%7C+Machine+Learning;Analytics+%7C+Python+Developer;Welcome+to+My+GitHub+Profile!" />
-</h1>
+<h1 align="center">Hi, I'm <span style="color:#1E90FF;">Kasi Rajan</span> 👋</h1>
 
----
+<h3 align="center">Data Science • Machine Learning • Analytics • Python</h3>
 
-<!-- SIMPLE BANNER (GitHub-safe) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/blue.png" width="100%">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" width="80">
 </p>
 
 ---
 
-<!-- ANIMATED GIF (GitHub-safe) -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
-</p>
-
----
 
 ## 🌟 About Me  
 
