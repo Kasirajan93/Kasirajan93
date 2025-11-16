@@ -5,28 +5,27 @@
 
 ---
 
-<!-- CUSTOM BLUE BANNER -->
+<!-- SIMPLE BANNER (GitHub-safe) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner8.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/blue.png" width="100%">
 </p>
 
 ---
 
-<!-- ANIMATED AVATAR -->
+<!-- ANIMATED GIF (GitHub-safe) -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="270"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
 </p>
 
 ---
 
 ## 🌟 About Me  
 
-- 👋 I'm **Kasi Rajan**, an Ayurvedic physician transitioning into **Data Science & AI**  
-- 🎓 Self-driven learner focusing on **Python, ML, Analytics & Visualization**  
-- 🧠 Skilled in **Pandas, NumPy, SQL, Scikit-learn, Power BI, Tableau**  
-- 🤖 Interested in **NLP, AI Agents & Healthcare Analytics**  
-- 📊 Building real-world ML + dashboarding projects  
-- 🚀 Goal: Integrate healthcare expertise with **Data Science** to create impactful solutions  
+- 👋 I'm **Kasi Rajan**, transitioning from Ayurveda to **Data Science**
+- 🐍 Skilled in **Python, SQL, Pandas, NumPy, Scikit-learn**
+- 📊 Data Visualization: **Power BI, Tableau**
+- 🤖 Interested in **AI, ML, NLP & Data Engineering**
+- 🚀 Working on dashboards + ML real-world projects
 
 ---
 
@@ -42,7 +41,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/vinozzxx">
+<a href="https://github.com/Kasirajan93">
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -53,58 +52,48 @@
 ## 🧰 Languages & Tools  
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,mysql,postgres,sqlite,sklearn,pandas,numpy,html,css,git,github,linux,aws,azure,vscode,pycharm&theme=light" />
+<img src="https://skillicons.dev/icons?i=python,mysql,sklearn,pandas,numpy,git,github,linux,aws,azure,vscode,pycharm&theme=light" />
 </p>
 
 ---
 
-# 💙 **Blue Theme GitHub Stats**
+# 💙 GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vinozzxx&show_icons=true&theme=blueberry"/>  
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=vinozzxx&theme=blueberry"/>  
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinozzxx&layout=compact&theme=blueberry"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kasirajan93&show_icons=true&theme=blueberry"/>  
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Kasirajan93&theme=blueberry"/>  
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kasirajan93&layout=compact&theme=blueberry"/>
 
 </div>
 
 ---
 
-# 📈 Activity Timeline  
+# 📈 Contribution Graph  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinozzxx&theme=github&radius=14&area=true&bg_color=0D1117&line=1E90FF&point=FFFFFF" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kasirajan93&theme=github&radius=14&area=true&bg_color=0D1117&line=1E90FF&point=FFFFFF" />
 </p>
 
 ---
 
-# 🧠 AI / Data Skills Radar  
+# 🧠 Skills Radar  
 
 <p align="center">
-  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=vinozzxx&skills=Python,SQL,Machine%20Learning,PowerBI,Analytics,NLP,Data%20Cleaning,Cloud&width=700" />
+  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Kasirajan93&skills=Python,SQL,Machine%20Learning,Analytics,PowerBI,NLP,Visualization&width=700" />
 </p>
 
 ---
 
-# 🎵 Now Playing on Spotify  
-<div align="center">
-  
-[![Spotify](https://novatorem-eta-blond.vercel.app/api/spotify)](https://open.spotify.com/)
+# 🎵 Spotify (GitHub-safe)  
 
-</div>
-
----
-
-# 🌤️ Weather (Live)
-
-<div align="center">
-<img src="https://github-readme-weather-api.vercel.app/api?location=Tamil%20Nadu&theme=dark" />
-</div>
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=&cover_image=true&theme=novatorem" />
+</p>
 
 ---
 
-# ✨ Random Dev Joke  
-
+# ✨ Random Joke  
 <p align="center">
 <img src="https://readme-jokes.vercel.app/api?theme=blue"/>
 </p>
@@ -112,54 +101,46 @@
 ---
 
 # 💬 Daily Quote  
-
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=blue"/>
 </p>
 
 ---
 
-# 🚀 **Featured Projects — Auto-Scrolling Carousel**
+# 🚀 Featured Projects  
 
-<div style="display: flex; overflow-x: auto; gap: 20px; padding: 10px;">
+### 📊 PhonePe Transaction Analysis  
+[🔗 View Repo](https://github.com/Kasirajan93/PhonePe-Analysis)
 
-  <!-- PhonePe -->
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vinozzxx&repo=PhonePe-Analysis&theme=tokyonight" height="150"/>
+### 🎵 Amazon Music Clustering  
+[🔗 View Repo](https://github.com/Kasirajan93/Amazon-Music-Clustering)
 
-  <!-- Amazon Music -->
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vinozzxx&repo=Amazon-Music-Clustering&theme=tokyonight" height="150"/>
+### 🚦 Live Traffic Congestion Dashboard  
+[🔗 View Repo](https://github.com/Kasirajan93/LIVE-TRAFFIC-CONGESTION-DASHBOARD)
 
-  <!-- Traffic Dashboard -->
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vinozzxx&repo=LIVE-TRAFFIC-CONGESTION-DASHBOARD&theme=tokyonight" height="150"/>
-
-  <!-- Luxury Housing Analysis -->
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vinozzxx&repo=LUXURY-HOUSING-SALES-ANALYSIS-BANGALORE&theme=tokyonight" height="150"/>
-
-</div>
+### 🏡 Luxury Housing Sales Analysis (Bangalore)  
+[🔗 View Repo](https://github.com/Kasirajan93/LUXURY-HOUSING-SALES-ANALYSIS-BANGALORE)
 
 ---
 
-# 📄 Resume Download  
-
+# 📄 Resume  
 <p align="center">
-  <a href="https://github.com/vinozzxx/vinozzxx/blob/main/test_resume.pdf" target="_blank">
+  <a href="https://github.com/Kasirajan93/Kasirajan93/blob/main/test_resume.pdf">
     <img src="https://img.shields.io/badge/Download%20Resume-1E90FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-# 👀 Visitor Counter  
-
+# 👀 Visitor Count  
 <p align="center">
-<img src="https://profile-counter.glitch.me/vinozzxx/count.svg" />
+<img src="https://profile-counter.glitch.me/Kasirajan93/count.svg" />
 </p>
 
 ---
 
-<!-- BLUE WAVE FOOTER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/waves/wave.svg">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/waves/blue.svg">
 </p>
 
 <h3 align="center">💙 Thanks for visiting!</h3>
