@@ -74,14 +74,11 @@
 
 ---
 
-## 🎵 Spotify  
+#  Amazon Music
 <p align="center">
-  <a href="https://open.spotify.com/">
-    <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=&cover_image=true&theme=default" />
-  </a>
+  <img src="https://img.shields.io/badge/Listening%20On-Amazon%20Music-FF9900?style=for-the-badge&logo=amazonmusic&logoColor=white" />
 </p>
 
----
 
 # ✨ Random Joke  
 <p align="center">
