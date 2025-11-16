@@ -67,18 +67,18 @@
 
 ---
 
-# 🧠 Skills Radar  
-
+## 🔥 Skills Radar 
 <p align="center">
-  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Kasirajan93&skills=Python,SQL,Machine%20Learning,Analytics,PowerBI,NLP,Visualization&width=700" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kasirajan93&layout=pie&theme=blueberry" />
 </p>
 
 ---
 
-# 🎵 Spotify (GitHub-safe)  
-
+## 🎵 Spotify  
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=&cover_image=true&theme=novatorem" />
+  <a href="https://open.spotify.com/">
+    <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=&cover_image=true&theme=default" />
+  </a>
 </p>
 
 ---
@@ -122,9 +122,9 @@
 
 ---
 
-# 👀 Visitor Count  
+## 👀 Visitor Count  
 <p align="center">
-<img src="https://profile-counter.glitch.me/Kasirajan93/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=Kasirajan93&label=Profile%20Views&color=1E90FF&style=for-the-badge" />
 </p>
 
 ---
